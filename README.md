@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Prasadmuthyala/QR-code-component
+- Live Site URL: https://prasadmuthyala.github.io/QR-code-component/
 
 ## My process
 
